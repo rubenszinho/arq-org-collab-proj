@@ -1,0 +1,6 @@
+[submodule "genius-assembly"]
+	path = genius-assembly
+	url = https://github.com/totoi690/genius-assembly
+[submodule "projeto-extra-push-pop-all-and-n/Processador-ICMC"]
+	path = projeto-extra-push-pop-all-and-n/Processador-ICMC
+	url = https://github.com/rubenszinho/Processador-ICMC
